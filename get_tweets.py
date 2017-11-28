@@ -5,11 +5,11 @@ import codecs
 import time
 import os
 
-consumer_key = "AopfNa0A9edEPEvCoGnvyg"
-consumer_secret = "jKk5Wy6LILNWpalJNIzzdTc345CceoQL9fthEjD9Q"
+consumer_key = "="
+consumer_secret = "="
 
-access_token = "190671283-6E4IRCesrlc5yqGr8Ha56wbRH0S36nDCsmk0cdOs"
-access_token_secret = "wzee8XXKlUMhKoIkx91lkp6O3yAFyGeFDewHOgRbalg"
+access_token = "="
+access_token_secret = "="
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
